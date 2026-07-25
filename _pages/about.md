@@ -29,7 +29,7 @@ profile:
       </div>
     </div>
 
-selected_papers: true
+selected_papers: false
 social: false
 
 announcements:
@@ -195,10 +195,11 @@ latest_posts:
 <h2 class="about-main-title">About</h2>
 
 I am a Ph.D. candidate in Computer Science at the University of Manchester,
-supervised by Prof. Norman Paton and Dr. Jiaoyan Chen. My research focuses on
+supervised by [Prof. Norman Paton](https://research.manchester.ac.uk/en/persons/norman.paton/)
+and [Dr. Jiaoyan Chen](https://chenjiaoyan.github.io/). My research focuses on
 LLM-based methods for structured-data understanding, schema and taxonomy
 inference, and data discovery and exploration.
 
-I expect to complete my Ph.D. in October 2026 and am seeking **Applied
-Scientist** and **Research Scientist** opportunities across Asia-Pacific in
-LLMs, structured data, and knowledge graphs.
+## Selected Publications
+
+{% include selected_papers.liquid %}

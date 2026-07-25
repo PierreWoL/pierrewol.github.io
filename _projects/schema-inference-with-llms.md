@@ -20,4 +20,4 @@ Index by 7–10% over prior approaches.
 **Methods:** EmSI, GeSI, and SI-LLM  
 **Stack:** Python, PyTorch, Hugging Face Transformers, vLLM  
 **Code:** [EmSI and GeSI](https://github.com/PierreWoL/SILM) ·
-[SI-LLM](https://github.com/PierreWoL/SILLM)
+[SI-LLM](https://github.com/PierreWoL/SILM/)
