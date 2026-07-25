@@ -3,7 +3,7 @@ layout: page
 title: research
 permalink: /research/
 description: Selected research systems and current work.
-nav: true
+nav: false
 nav_order: 1
 horizontal: true
 ---

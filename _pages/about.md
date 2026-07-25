@@ -43,6 +43,18 @@ latest_posts:
     .post article > .profile {
       float: none !important;
     }
+
+    body > header {
+      display: none !important;
+    }
+
+    body.fixed-top-nav {
+      padding-top: 0 !important;
+    }
+
+    body > .container.mt-5 {
+      margin-top: 2rem !important;
+    }
   }
 
   .post > .post-header {
