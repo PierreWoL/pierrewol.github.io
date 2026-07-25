@@ -197,7 +197,7 @@ latest_posts:
 I am a Ph.D. candidate in Computer Science at the University of Manchester,
 supervised by Prof. Norman Paton and Dr. Jiaoyan Chen. My research focuses on
 LLM-based methods for structured-data understanding, schema and taxonomy
-inference, knowledge graphs, and agentic data analytics.
+inference, and data discovery and exploration.
 
 I expect to complete my Ph.D. in October 2026 and am seeking **Applied
 Scientist** and **Research Scientist** opportunities across Asia-Pacific in
