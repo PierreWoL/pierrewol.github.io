@@ -15,10 +15,11 @@ profile:
         <span>University of Manchester</span>
         <a href="mailto:zhenyu.wu@manchester.ac.uk">zhenyu.wu@manchester.ac.uk</a>
       </div>
-      <nav class="profile-social-links" aria-label="Professional profiles">
+      <nav class="profile-social-links" aria-label="Professional profiles and CV">
         <a href="https://scholar.google.com/citations?user=Fe9k8sYAAAAJ&amp;hl=en" aria-label="Google Scholar" title="Google Scholar" target="_blank" rel="me noopener noreferrer"><i class="ai ai-google-scholar" aria-hidden="true"></i></a>
         <a href="https://github.com/PierreWoL" aria-label="GitHub" title="GitHub" target="_blank" rel="me noopener noreferrer"><i class="fa-brands fa-github" aria-hidden="true"></i></a>
         <a href="https://www.linkedin.com/in/zhenyu-w-7443a4254/" aria-label="LinkedIn" title="LinkedIn" target="_blank" rel="me noopener noreferrer"><i class="fa-brands fa-linkedin" aria-hidden="true"></i></a>
+        <a href="/assets/rendercv/rendercv_output/Zhenyu_Wu_CV.pdf" aria-label="CV" title="CV" target="_blank" rel="noopener noreferrer"><i class="ai ai-cv" aria-hidden="true"></i></a>
       </nav>
       <div class="profile-research" aria-label="LLMs, Structured Data and Ontology; Schema and Taxonomy Inference; Data Discovery and Exploration">
         <span class="profile-research-label">Research focus</span>
@@ -193,9 +194,11 @@ latest_posts:
 
 <h2 class="about-main-title">About</h2>
 
-I am a final-year Ph.D. candidate in Computer Science at the University of
-Manchester, expecting to complete my Ph.D. in October 2026.
+I am a Ph.D. candidate in Computer Science at the University of Manchester,
+supervised by Prof. Norman Paton and Dr. Jiaoyan Chen. My research focuses on
+LLM-based methods for structured-data understanding, schema and taxonomy
+inference, knowledge graphs, and agentic data analytics.
 
-I build LLM-based methods for understanding and organizing heterogeneous
-structured data. I am seeking **Applied Scientist** and **Research Scientist**
-opportunities across Asia-Pacific and internationally.
+I expect to complete my Ph.D. in October 2026 and am seeking **Applied
+Scientist** and **Research Scientist** opportunities across Asia-Pacific in
+LLMs, structured data, and knowledge graphs.
