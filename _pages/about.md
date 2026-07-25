@@ -10,6 +10,13 @@ profile:
   image_circular: true
   more_info: >
     <style>
+      @layer theme {
+        @media (max-width: 575.98px) {
+          .profile {
+            float: none !important;
+          }
+        }
+      }
       @media (min-width: 576px) {
         .profile {
           width: 180px;
@@ -19,7 +26,6 @@ profile:
       }
       @media (max-width: 575.98px) {
         .profile {
-          float: none !important;
           width: 160px;
           margin: 0 auto 1.5rem !important;
         }
@@ -47,9 +53,9 @@ profile:
       }
     </style>
     <nav class="profile-social-links" aria-label="Professional profiles">
-      <a href="https://scholar.google.com/citations?user=Fe9k8sYAAAAJ&amp;hl=en" aria-label="Google Scholar" title="Google Scholar" target="_blank" rel="noopener noreferrer"><i class="ai ai-google-scholar" aria-hidden="true"></i></a>
-      <a href="https://github.com/PierreWoL" aria-label="GitHub" title="GitHub" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-github" aria-hidden="true"></i></a>
-      <a href="https://www.linkedin.com/in/zhenyu-w-7443a4254/" aria-label="LinkedIn" title="LinkedIn" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-linkedin" aria-hidden="true"></i></a>
+      <a href="https://scholar.google.com/citations?user=Fe9k8sYAAAAJ&amp;hl=en" aria-label="Google Scholar" title="Google Scholar" target="_blank" rel="me noopener noreferrer"><i class="ai ai-google-scholar" aria-hidden="true"></i></a>
+      <a href="https://github.com/PierreWoL" aria-label="GitHub" title="GitHub" target="_blank" rel="me noopener noreferrer"><i class="fa-brands fa-github" aria-hidden="true"></i></a>
+      <a href="https://www.linkedin.com/in/zhenyu-w-7443a4254/" aria-label="LinkedIn" title="LinkedIn" target="_blank" rel="me noopener noreferrer"><i class="fa-brands fa-linkedin" aria-hidden="true"></i></a>
     </nav>
 
 selected_papers: true
