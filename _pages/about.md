@@ -6,7 +6,7 @@ subtitle: Applied Scientist — LLMs, Structured Data & Knowledge Graphs
 
 profile:
   align: right
-  image: profile-placeholder.jpg
+  image: zhenyu-wu-profile.png
   image_circular: false
 
 selected_papers: true
