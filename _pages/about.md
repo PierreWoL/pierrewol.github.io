@@ -4,7 +4,10 @@ title: about
 permalink: /
 subtitle: Applied Scientist — LLMs, Structured Data & Knowledge Graphs
 
-profile: false
+profile:
+  align: right
+  image: profile-placeholder.jpg
+  image_circular: false
 
 selected_papers: true
 social: true
