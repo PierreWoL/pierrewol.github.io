@@ -1,18 +1,18 @@
 cv:
   name: Zhenyu Wu
-  label: Applied Scientist — LLMs, Structured Data & Knowledge Graphs
+  headline: Applied Scientist — LLMs, Structured Data & Knowledge Graphs
   location: Manchester, UK
-  image: ""
-  summary: >-
-    Final-year Computer Science PhD candidate specialising in LLM-based
-    structured-data understanding, schema and taxonomy inference, knowledge
-    graphs, and agentic data analytics.
-
+  website: https://pierrewol.github.io
   social_networks:
     - network: GitHub
       username: PierreWoL
+    - network: ORCID
+      username: 0000-0003-0981-5567
 
   sections:
+    Summary:
+      - Final-year Computer Science PhD candidate specialising in LLM-based structured-data understanding, schema and taxonomy inference, knowledge graphs, and agentic data analytics. Experienced in building reproducible research systems with PyTorch, Hugging Face Transformers, vLLM, and LangGraph.
+
     Experience:
       - company: University of Manchester
         position: Doctoral Researcher — LLMs for Structured Data and Knowledge Construction
@@ -20,10 +20,10 @@ cv:
         start_date: 2022-09
         end_date: 2026-10
         highlights:
-          - Designed encoder- and decoder-based systems for inferring entity types, attributes, hierarchies, and semantic relationships from heterogeneous table repositories.
-          - Improved F1/Recall by 30–40% and Rand Index by 7–10% over prior approaches across real-world datasets.
+          - Designed encoder- and decoder-based systems for inferring entity types, attributes, hierarchies, and semantic relationships from heterogeneous tabular repositories.
+          - Improved F1 and Recall by 30–40% and Rand Index by 7–10% over prior approaches across real-world datasets.
           - Built modular Python pipelines with PyTorch, Hugging Face Transformers, and vLLM for batched inference, caching, structured validation, ablations, and reproducible evaluation.
-          - Developing an agentic multi-database QA system combining schema linking, structured reasoning, Text-to-SQL, and tool calling with Qwen2.5-14B.
+          - Developing an agentic multi-database question-answering system combining schema linking, structured reasoning, Text-to-SQL, and tool calling with Qwen2.5-14B.
 
       - company: Singapore University of Technology and Design
         position: Visiting Research Associate
@@ -38,7 +38,7 @@ cv:
       - institution: University of Manchester
         location: Manchester, UK
         area: Computer Science
-        studyType: PhD
+        degree: PhD
         start_date: 2022-09
         end_date: 2026-10
         highlights:
@@ -48,82 +48,82 @@ cv:
       - institution: University of Edinburgh
         location: Edinburgh, UK
         area: High Performance Computing with Data Science
-        studyType: MSc
+        degree: MSc
         start_date: 2019-09
         end_date: 2020-08
-        score: Merit
+        highlights:
+          - Graduated with Merit
 
       - institution: Tianjin University of Finance and Economics
         location: Tianjin, China
         area: Information Management and Information Systems
-        studyType: BSc
+        degree: BSc
         start_date: 2015-09
         end_date: 2019-06
-        score: "GPA 3.81/4.00, Top 5%"
         highlights:
+          - "GPA: 3.81/4.00; Top 5%"
           - Minor in Accounting
 
     Publications:
       - title: Schema Inference for Tabular Data Repositories Using Large Language Models
         authors:
-          - Zhenyu Wu
+          - "***Zhenyu Wu***"
           - Jiaoyan Chen
           - Norman W. Paton
-        publisher: The VLDB Journal
-        releaseDate: 2026
+        journal: The VLDB Journal
+        date: "2026"
         url: https://arxiv.org/abs/2509.04632
-        summary: Accepted.
 
       - title: Taxonomy Inference for Tabular Data Using Large Language Models
         authors:
-          - Zhenyu Wu
+          - "***Zhenyu Wu***"
           - Jiaoyan Chen
           - Norman W. Paton
-        publisher: The Semantic Web — ESWC 2025
-        releaseDate: 2025
-        url: https://doi.org/10.1007/978-3-031-94575-5_22
+        journal: The Semantic Web — ESWC 2025
+        date: "2025"
+        doi: 10.1007/978-3-031-94575-5_22
 
       - title: "Dataset Discovery and Exploration: A Survey"
         authors:
           - Norman W. Paton
           - Jiaoyan Chen
-          - Zhenyu Wu
-        publisher: ACM Computing Surveys
-        releaseDate: 2024
-        url: https://doi.org/10.1145/3626521
+          - "***Zhenyu Wu***"
+        journal: ACM Computing Surveys
+        date: "2024"
+        doi: 10.1145/3626521
 
       - title: "Data Stream Clustering: An In-depth Empirical Study"
         authors:
           - Xin Wang
           - Zhengru Wang
-          - Zhenyu Wu
+          - "***Zhenyu Wu***"
           - Shuhao Zhang
           - Xuanhua Shi
           - Li Lu
-        publisher: Proceedings of the ACM on Management of Data
-        releaseDate: 2023
-        url: https://doi.org/10.1145/3589307
+        journal: Proceedings of the ACM on Management of Data
+        date: "2023"
+        doi: 10.1145/3589307
 
     Skills:
-      - name: Programming
-        keywords: Python, SQL, C++, Linux/Shell, Git
+      - label: Programming
+        details: Python, SQL, C++, Linux/Shell, Git
 
-      - name: Machine Learning and LLMs
-        keywords: PyTorch, Hugging Face Transformers, vLLM, self-supervised learning, contrastive learning, hierarchical clustering
+      - label: Machine Learning and LLMs
+        details: PyTorch, Hugging Face Transformers, vLLM, self-supervised learning, contrastive learning, hierarchical clustering
 
-      - name: Structured Data and Knowledge
-        keywords: Schema and taxonomy inference, ontology construction, knowledge graphs, table understanding, entity typing, attribute resolution
+      - label: Structured Data and Knowledge
+        details: Schema and taxonomy inference, ontology construction, knowledge graphs, table understanding, entity typing, attribute resolution
 
-      - name: Agents and Data Intelligence
-        keywords: LangChain, LangGraph, tool calling, structured-output validation, schema linking, Text-to-SQL
+      - label: Agents and Data Intelligence
+        details: LangChain, LangGraph, tool calling, structured-output validation, schema linking, Text-to-SQL
 
     Awards:
-      - title: Dean's Doctoral Scholarship
-        awarder: University of Manchester
-        date: 2022
+      - name: Dean's Doctoral Scholarship
+        location: University of Manchester
+        date: "2022"
 
     Languages:
-      - name: Mandarin
-        summary: Native
-      - name: English
-        summary: Professional proficiency
+      - label: Mandarin
+        details: Native
+      - label: English
+        details: Professional proficiency
