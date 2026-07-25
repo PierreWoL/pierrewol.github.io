@@ -12,7 +12,7 @@ profile:
       <h1 class="profile-name">Zhenyu Wu</h1>
       <p class="profile-role">Ph.D. Candidate in Computer Science</p>
       <div class="profile-meta">
-        <a href="https://www.manchester.ac.uk/" target="_blank" rel="noopener noreferrer">University of Manchester</a>
+        <span>University of Manchester</span>
         <a href="mailto:zhenyu.wu@manchester.ac.uk">zhenyu.wu@manchester.ac.uk</a>
       </div>
       <nav class="profile-social-links" aria-label="Professional profiles">
@@ -181,9 +181,8 @@ latest_posts:
 
 <h2 class="about-main-title">About</h2>
 
-I am a final-year Ph.D. candidate in Computer Science at the
-[University of Manchester](https://www.manchester.ac.uk/), expecting to complete
-my Ph.D. in October 2026.
+I am a final-year Ph.D. candidate in Computer Science at the University of
+Manchester, expecting to complete my Ph.D. in October 2026.
 
 My research focuses on building practical LLM and machine-learning systems for
 heterogeneous structured data. I develop methods that turn minimally documented
