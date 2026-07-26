@@ -203,3 +203,17 @@ inference, and data discovery and exploration.
 ## Selected Publications
 
 {% include selected_papers.liquid %}
+
+## Teaching & Service
+
+**Academic Service**
+
+- Program Committee Member, ISWC Poster, Demo & Lightning Talk Track
+- Reviewer, Transactions on Graph Data and Knowledge (TGDK)
+
+**Teaching Assistant, University of Manchester**
+
+- **2026:** COMP63502 - Data Engineering Technologies
+- **2025:** COMP23111 - Database Systems; DATA70141 - Understanding Databases
+- **2023:** COMP60711 - Data Engineering
+- **2022-2023:** COMP62421 - Querying Data on the Web; COMP38311 - Advanced Distributed Systems
